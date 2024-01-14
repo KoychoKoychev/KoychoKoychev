@@ -5,9 +5,9 @@ I am passionate about learning and working with new tech. I love building intere
 
 ## 💬 About me
 * 🧐   Interested in full stack.
-* 💼   Currently a developer for Lab42 - Sofia/Bulgaria.
+* 💼   Last position - full stack developer for Lab42 - Sofia/Bulgaria.
 * 🎓   Master of Structural Engineering.
-* 🌱   Currently learning TypeScript and GO.
+* 🌱   Currently learning TypeScript and NestJS.
 * 📚   Reading 《The Nature of Code by Daniel Shiffman》.
 * 💻   With 2 years' development working experience.
   
